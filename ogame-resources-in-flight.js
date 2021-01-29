@@ -2,7 +2,8 @@
 // @name           OGame Redesign: Resources in Flight
 // @description    Displays how many resources are in flight on the overview page
 // @namespace      Bramhammer
-// @version        2.0
+// @version        2.0.1
+// @updateURL      https://raw.githubusercontent.com/breakerh/ogame-resources-in-flight/main/ogame-resources-in-flight.js
 // @date           2020-01-26
 // @author         Bram Hammer originally from Vesselin Bontchev
 // @include        http*://*.ogame.gameforge.*/game/index.php?page=ingame&component=movement*
